@@ -1,6 +1,6 @@
 ;;; quantum-butterfly-fixed.scm
 ;;; Interactive MIT Scheme toy simulator for "butterfly-effect-like" behavior
-;;; (C) Tsubasa Kato - 4/20/2026 - Created with the help of ChatGPT (GPT 5.4)
+;;; (C) Tsubasa Kato - Inspire Search Corp. 4/20/2026 - Created with the help of ChatGPT (GPT 5.4)
 ;;; Fixed timing version:
 ;;; - uses real-time-clock
 ;;; - uses internal-time/seconds->ticks
