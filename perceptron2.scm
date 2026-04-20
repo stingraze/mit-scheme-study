@@ -1,3 +1,4 @@
+;(C)Tsubasa Kato 2026/4/20 - Made with help of Chat GPT (GPT-5.4)
 (define (step x)
   (if (>= x 0) 1 0))
 
